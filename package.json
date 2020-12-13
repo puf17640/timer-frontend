@@ -38,7 +38,9 @@
   },
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/react": "17.0.0"
+  },
   "author": "puf17640",
   "license": "ISC"
 }
